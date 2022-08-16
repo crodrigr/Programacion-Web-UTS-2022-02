@@ -9,7 +9,7 @@
 ![image](https://user-images.githubusercontent.com/31961588/184898575-69f220a1-f70f-49e5-aec5-36fa7cc6e98a.png)}
 
 
-**Barra de Navegación*//
+**Barra de Navegación**
 ```css
 /* Barra de Navegación */
 
