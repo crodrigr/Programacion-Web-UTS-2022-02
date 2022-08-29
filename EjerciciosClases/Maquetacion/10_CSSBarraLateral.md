@@ -11,3 +11,5 @@
 ## 3. Estilos de widget
 
 ![image](https://user-images.githubusercontent.com/31961588/187275742-d41999ed-7d19-4ccc-877b-ba4e455cb1f0.png)
+
+![image](https://user-images.githubusercontent.com/31961588/187276009-02786e77-2d1c-4f34-a531-6d997a01ac7b.png)
