@@ -23,3 +23,24 @@
 ## 4. En el index.html adicionamos al final de la barra lateral  un aside  y <div di="history">
 
 ![image](https://user-images.githubusercontent.com/31961588/187311782-6c3023ad-cae4-4633-b48c-deeeb69dea45.png)
+
+## 5. En el estilo definido para aside agregamos el identificador #frase
+  
+  ![image](https://user-images.githubusercontent.com/31961588/187312220-89296f9f-c96e-4130-943d-593a334cdf48.png)
+
+## 6. Adicionamos un estilo especifico para identificador de #frase
+  
+  ![image](https://user-images.githubusercontent.com/31961588/187312593-6d287d71-0b4f-497c-94a9-fd817837f3d0.png)
+  
+## 7. Colocamos un clear:both para bajar el aside de #frase
+  
+  ![image](https://user-images.githubusercontent.com/31961588/187312956-6a295c1a-1adf-4c74-8612-95fe095eb88f.png)
+  
+# Color de los encabezados de la barra lateral
+  
+  **En estilos generales colocamos**
+  
+  ![image](https://user-images.githubusercontent.com/31961588/187313239-45e83c66-d0e9-43ff-bb3f-77270625631d.png)
+
+  
+
