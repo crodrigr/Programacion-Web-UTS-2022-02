@@ -32,3 +32,12 @@
 ## 8. Secciones  history
 
 ![image](https://user-images.githubusercontent.com/31961588/187316623-695b9883-a566-4b8f-bcb1-e5c666fed01e.png)
+
+## 9. Fuentes iconos
+
+![image](https://user-images.githubusercontent.com/31961588/187317603-f653ba1d-bd30-430f-8628-39a0440f5e6f.png)
+
+## 10. Agregamos la clase icono en estilos generales
+
+![image](https://user-images.githubusercontent.com/31961588/187317779-057a8779-68aa-40e3-b707-8aa041a8510c.png)
+
