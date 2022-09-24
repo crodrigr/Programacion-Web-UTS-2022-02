@@ -48,3 +48,24 @@ INSERT INTO `db_saldos`.`cliente` (`nombres`, `apellidos`, `email`, `telefono`, 
 INSERT INTO `db_saldos`.`cliente` (`nombres`, `apellidos`, `email`, `telefono`, `saldo`) VALUES ('Juan Carlos', 'Camargo Perez', 'jcamargo@gmail.com', '48484', '3000');
 INSERT INTO `db_saldos`.`cliente` (`nombres`, `apellidos`, `email`, `telefono`, `saldo`) VALUES ('Diego Fernando', 'Rangel  Guzman', 'drangel@gmail.com', '48848448', '4000');
 ```
+
+## 2 Tes de conexion. 
+
+## 2.1 Descargar el driver de conexion de mysql para tomcat
+
+![image](https://user-images.githubusercontent.com/31961588/192119260-32ccb644-3b40-4448-83ab-45b7c931aa21.png)
+
+## 2.2 
+
+![image](https://user-images.githubusercontent.com/31961588/192119290-a5712aac-0ffe-4ac6-83e2-74d36e5bceac.png)
+
+## 2.3 Descomprimir y copiar el .jar para colocarlo en lib del tomcat
+
+![image](https://user-images.githubusercontent.com/31961588/192119323-2612be67-7181-4b05-a68f-59348aa65ab5.png)
+
+#### 2.3.1 copiar y reniciar el servicio de tomcat
+
+![image](https://user-images.githubusercontent.com/31961588/192119353-20b43ff9-c70c-4715-8243-822276994d51.png)
+
+
+
