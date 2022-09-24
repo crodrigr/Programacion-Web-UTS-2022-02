@@ -15,3 +15,7 @@
 ### 2.3 
 
 ![image](https://user-images.githubusercontent.com/31961588/192114916-ca26089c-7d58-4e80-8e3c-1a534511d264.png)
+
+### 2.4
+
+![image](https://user-images.githubusercontent.com/31961588/192114950-12cf828f-05b2-47a7-8ca9-c3435eb05370.png)
