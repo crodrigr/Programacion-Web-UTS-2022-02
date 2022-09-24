@@ -39,6 +39,11 @@ En este apartado se va crear las capas del proyecto:
 
 Se debe eliminar el index.html y crear un index.jsp y colocar la siguiente para llamar al servlet controlador
 
+**Nota**: el index.jsp debe estar dentro del Web-Pages y se debe invocar el serverlet con el meta http-equv
+
+![image](https://user-images.githubusercontent.com/31961588/192117669-8cfc5a16-e7c1-42f7-b84a-a607fb92f3e0.png)
+
+
 ```Html
 <meta http-equiv="refresh" content="0;url=${pageContext.request.contextPath}/SerlvetConroladorSaldos">
 ```
