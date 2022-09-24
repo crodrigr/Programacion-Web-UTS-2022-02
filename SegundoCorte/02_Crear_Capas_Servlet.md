@@ -23,3 +23,7 @@ En este apartado se va crear las capas del proyecto:
 ![image](https://user-images.githubusercontent.com/31961588/192115640-d8eb0823-d957-486f-ab04-d460d5767d78.png)
 
 ![image](https://user-images.githubusercontent.com/31961588/192115677-4bf2f399-30ba-4aa1-aeae-69f4780703ae.png)
+
+### 4.2 Arquitectura
+
+![image](https://user-images.githubusercontent.com/31961588/192116045-b94c41c7-e77b-492d-be12-87d5e12184ac.png)
