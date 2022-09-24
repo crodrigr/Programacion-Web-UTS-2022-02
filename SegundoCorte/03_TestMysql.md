@@ -36,3 +36,15 @@ CREATE TABLE `db_saldos`.`cliente` (
   `saldo` DOUBLE NULL,
   PRIMARY KEY (`id_cliente`));
   ```
+
+### 1.6 Insertar datos en la tabla cliente
+
+![image](https://user-images.githubusercontent.com/31961588/192118766-a67baec1-66ab-4ca8-ae8a-fbd73dce1f7c.png)
+
+**script insert cliente**
+```Sql
+INSERT INTO `db_saldos`.`cliente` (`nombres`, `apellidos`, `email`, `telefono`, `saldo`) VALUES ('Camilo Ernesto', 'Rodriguez Moreno', 'crodrigr@gmail.com', '323444', '1000');
+INSERT INTO `db_saldos`.`cliente` (`nombres`, `apellidos`, `email`, `telefono`, `saldo`) VALUES ('Maria Celilna', 'Torres Serrano', 'mtorres@gmail.com', '38858585', '2000');
+INSERT INTO `db_saldos`.`cliente` (`nombres`, `apellidos`, `email`, `telefono`, `saldo`) VALUES ('Juan Carlos', 'Camargo Perez', 'jcamargo@gmail.com', '48484', '3000');
+INSERT INTO `db_saldos`.`cliente` (`nombres`, `apellidos`, `email`, `telefono`, `saldo`) VALUES ('Diego Fernando', 'Rangel  Guzman', 'drangel@gmail.com', '48848448', '4000');
+```
