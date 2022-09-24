@@ -87,3 +87,14 @@ A continuación se proporciona el archivo poo.xml que se configuro para el proye
 </project>
 
 ```
+
+## 4. Clean and Build
+
+### 4.1
+
+![image](https://user-images.githubusercontent.com/31961588/192115267-21b575d3-d159-4173-b3ce-5c7554381954.png)
+
+### 4.2 
+
+![image](https://user-images.githubusercontent.com/31961588/192115303-61f95c87-259e-4b07-9e48-375b850d5215.png)
+
