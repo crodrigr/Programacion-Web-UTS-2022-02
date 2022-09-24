@@ -6,11 +6,11 @@ En este apartado se va crear las capas del proyecto:
 - dominio
 - web
 
-Datos: clases que se relacionan con la base de datos.
+**Datos:** clases que se relacionan con la base de datos.
 
-Dominio: clases con reglas de negocio de nuestra aplicación.
+**Dominio:** clases con reglas de negocio de nuestra aplicación.
 
-web: clases controladores. 
+**Web:** clases controladores. 
 
-Web-Pages: interfaces web en archivos jsp 
+**Web-Pages:** interfaces web en archivos jsp 
 
