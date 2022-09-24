@@ -68,4 +68,101 @@ INSERT INTO `db_saldos`.`cliente` (`nombres`, `apellidos`, `email`, `telefono`, 
 ![image](https://user-images.githubusercontent.com/31961588/192119353-20b43ff9-c70c-4715-8243-822276994d51.png)
 
 
+## Copiar el código de conexion a la base datos en el servlte
+
+Hacer los ajustes necesarios relacionados a su ambiente de trabaja: nombre de la base, usuario, contraseña, y nombre de la tabla y campos. 
+
+![image](https://user-images.githubusercontent.com/31961588/192119395-6998ce2d-232a-4316-8f75-89652cb471cf.png)
+
+```Java
+
+package appsaldossab.web;
+
+import java.io.IOException;
+import java.io.PrintWriter;
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.sql.Statement;
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+/**
+ *
+ * @author Usuario
+ */
+@WebServlet(name = "SerlvetConroladorSaldos", urlPatterns = {"/SerlvetConroladorSaldos"})
+public class SerlvetConroladorSaldos extends HttpServlet {
+
+    
+    protected void processRequest(HttpServletRequest request, HttpServletResponse response)
+            throws ServletException, IOException {
+        response.setContentType("text/html;charset=UTF-8");
+         try ( PrintWriter out = response.getWriter()) {            
+            out.println("<!DOCTYPE html>");
+            out.println("<html>");
+            out.println("<head>");
+            out.println("<title>Servlet SerlvetController</title>");            
+            out.println("</head>");
+            out.println("<body>");
+            out.println("<h1>Servlet SerlvetController at xxxx " + request.getContextPath() + "</h1>");
+            out.println("</body>");
+            out.println("</html>");
+                 
+            String  url = "jdbc:mysql://localhost:3306/db_saldos?useSSL=false&useTimezone=true&serverTimezone=UTC&allowPublicKeyRetrieval=true";
+        
+            try ( //Class.forName("com.mysql.cj.jdbc.Driver");
+                    Connection conexion = DriverManager.getConnection(url, "root", "admin")) {
+                Statement instruccion = conexion.createStatement();
+                String sql = "SELECT id_cliente, nombres, apellidos, email, telefono,saldo FROM cliente";
+                ResultSet resultado = instruccion.executeQuery(sql);
+                out.println("conectandose a la base datos<br>");
+                while(resultado.next()){
+                    out.println("Id Persona: " + resultado.getInt("id_cliente"));
+                    out.println(" Nombre: " + resultado.getString("nombres"));
+                    out.println(" Apellido: " + resultado.getString("apellidos"));
+                    out.println(" Email: " + resultado.getString("email"));
+                    out.println(" Telefono: " + resultado.getString("telefono"));
+                    out.println(" Saldo: " + resultado.getDouble("saldo"));
+                    out.println("<br><br>");
+                }
+                resultado.close();
+                instruccion.close();
+            }
+            
+            out.println("Test de conexión a la base de datosxxxxx"); 
+        }catch (SQLException ex) {
+            ex.printStackTrace(System.out);
+        }
+    }
+
+    
+    @Override
+    protected void doGet(HttpServletRequest request, HttpServletResponse response)
+            throws ServletException, IOException {
+        processRequest(request, response);
+    }
+
+    
+    @Override
+    protected void doPost(HttpServletRequest request, HttpServletResponse response)
+            throws ServletException, IOException {
+        processRequest(request, response);
+    }
+
+    
+    @Override
+    public String getServletInfo() {
+        return "Short description";
+    }// </editor-fold>
+
+}
+
+```
+
+
 
