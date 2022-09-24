@@ -27,3 +27,21 @@ En este apartado se va crear las capas del proyecto:
 ### 4.2 Arquitectura
 
 ![image](https://user-images.githubusercontent.com/31961588/192116045-b94c41c7-e77b-492d-be12-87d5e12184ac.png)
+
+# 5 Crear el servlet controlador de saldos 
+
+
+![image](https://user-images.githubusercontent.com/31961588/192116116-285c0f52-4f84-4b8d-9f8c-f20f047217d2.png)
+
+![image](https://user-images.githubusercontent.com/31961588/192116133-c0212590-13b1-4a5e-9a94-dc27873f60a5.png)
+
+### 5.1 Probar el servlet
+
+Se debe eliminar el index.html y crear un index.jsp y colocar la siguiente para llamar al servlet controlador
+
+```Html
+<meta http-equiv="refresh" content="0;url=${pageContext.request.contextPath}/SerlvetConroladorSaldos">
+```
+
+
+
