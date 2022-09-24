@@ -24,3 +24,15 @@
 ### 1.5 Crear tabla cliente con sus campos
 
 ![image](https://user-images.githubusercontent.com/31961588/192118681-90bfe70f-eb7c-4c1e-9e24-df4828c81fcf.png)
+
+**script create table**
+```Sql
+CREATE TABLE `db_saldos`.`cliente` (
+  `id_cliente` INT NOT NULL AUTO_INCREMENT,
+  `nombres` VARCHAR(60) NULL,
+  `apellidos` VARCHAR(60) NULL,
+  `email` VARCHAR(45) NULL,
+  `telefono` VARCHAR(45) NULL,
+  `saldo` DOUBLE NULL,
+  PRIMARY KEY (`id_cliente`));
+  ```
