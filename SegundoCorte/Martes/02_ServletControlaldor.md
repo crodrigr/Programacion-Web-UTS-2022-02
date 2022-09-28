@@ -48,5 +48,6 @@ Se debe eliminar el index.html y crear un index.jsp y colocar la siguiente para 
 <meta http-equiv="refresh" content="0;url=${pageContext.request.contextPath}/SerlvetConroladorSaldos">
 ```
 
+![image](https://user-images.githubusercontent.com/31961588/192659093-1a6becdd-9396-4815-a29b-dd1d20fa6d4d.png)
 
 
