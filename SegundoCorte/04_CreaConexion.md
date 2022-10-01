@@ -24,3 +24,7 @@ En esta clase se define todos los parametros de conexion y se establece las cone
 ### 1.2. Se define los atributos de conexión a la base de datos como atributos de clase(static) y constantes(final)
 
 ![image](https://user-images.githubusercontent.com/31961588/193425320-acc643b6-e10b-499a-8597-85991b1aebb9.png)
+
+### 1.3 Se define el obejto dataSource que solo se instancia una sola vez 
+
+![image](https://user-images.githubusercontent.com/31961588/193425981-1a7d685d-c09d-415d-b8da-b01d5e3943dc.png)
