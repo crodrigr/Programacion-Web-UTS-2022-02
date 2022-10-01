@@ -28,3 +28,10 @@ En esta clase se define todos los parametros de conexion y se establece las cone
 ### 1.3 Se define el obejto dataSource que solo se instancia una sola vez 
 
 ![image](https://user-images.githubusercontent.com/31961588/193425981-1a7d685d-c09d-415d-b8da-b01d5e3943dc.png)
+
+### 1.4 Método getConnection
+
+![image](https://user-images.githubusercontent.com/31961588/193427010-5ca5205a-d7f1-4cfb-807d-079a554ccdad.png)
+
+
+
