@@ -21,5 +21,4 @@ En esta clase se define todos los parametros de conexion y se establece las cone
 
 ### 1.2. Se define los atributos de conexión a la base de datos como atributos de clase(static) y constantes(final)
 
-![image](https://user-images.githubusercontent.com/31961588/193425247-37e16fe0-388a-4f70-8b62-0d186517dc92.png)
-
+![image](https://user-images.githubusercontent.com/31961588/193425320-acc643b6-e10b-499a-8597-85991b1aebb9.png)
