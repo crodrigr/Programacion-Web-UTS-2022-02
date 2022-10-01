@@ -34,4 +34,8 @@ En esta clase se define todos los parametros de conexion y se establece las cone
 ![image](https://user-images.githubusercontent.com/31961588/193427010-5ca5205a-d7f1-4cfb-807d-079a554ccdad.png)
 
 
+### 1.4 Métodos close 
+
+![image](https://user-images.githubusercontent.com/31961588/193427371-e4c99987-b632-4d4e-9cea-254b456e8689.png)
+
 
