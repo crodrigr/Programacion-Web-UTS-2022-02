@@ -2,6 +2,8 @@
 
 En esta clase se define todos los parametros de conexion y se establece las conexiones que va tener la aplicación usando un poolling de conexiones. Para el polling de conexion usamos la dependencia **dbcp2**
 
+![image](https://user-images.githubusercontent.com/31961588/192671209-8bb5e3d4-d98f-498f-98b5-8d160e74bebf.png)
+
 ## Paso previo se debe colocar la depedencia de dbcp2 en el pom.xml. 
 
 ![image](https://user-images.githubusercontent.com/31961588/193424971-ce172536-a598-425e-9955-ea2546b8b04d.png)
