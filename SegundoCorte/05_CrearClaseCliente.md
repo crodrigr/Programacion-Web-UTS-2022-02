@@ -13,3 +13,7 @@ Se crea la clase cliente, la cual, va permitir instanciar los objetos clientes c
 ### 2. Crear métodos constructores de cliente
 
 ![image](https://user-images.githubusercontent.com/31961588/193427715-e3995c47-4cb5-45a5-8c1b-047401d0aff6.png)
+
+### 3. Generar métodos getter and setter
+
+![image](https://user-images.githubusercontent.com/31961588/193427768-727f45bc-f0bb-4740-aa25-3fcb5f211a25.png)
