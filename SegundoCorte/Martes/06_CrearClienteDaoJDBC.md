@@ -14,7 +14,8 @@ ESta clase se define las consultas que se van hacer en relación a la clase clie
 ## 3. Método getAll que trae todos los clientes
 
 
-![image](https://user-images.githubusercontent.com/31961588/193954799-78626b90-2933-4578-9533-4e4e955157f1.png)
+![image](https://user-images.githubusercontent.com/31961588/193962938-7fde9f2a-1c15-4530-a35f-cc6872800fc0.png)
+
 
 
 ## 4. Creamos cliente.jsp dentro  WEB-PAGES
