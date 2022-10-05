@@ -21,6 +21,9 @@ ESta clase se define las consultas que se van hacer en relación a la clase clie
 
 ![image](https://user-images.githubusercontent.com/31961588/193957686-288509bb-204f-47f2-812b-ee2d25bc6baf.png)
 
+## 4. En el método doGet del Servlet se realiza la consulta de todos los clientes que se pasa a clientes.jsp
+
+![image](https://user-images.githubusercontent.com/31961588/193958170-069e8290-ca77-4f2a-87af-3277a0cf7650.png)
 
 ## 5. Add taglig para usar un foreach para recorrer el listado de clientes
 
