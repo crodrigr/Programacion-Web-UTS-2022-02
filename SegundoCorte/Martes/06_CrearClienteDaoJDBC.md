@@ -16,3 +16,12 @@ ESta clase se define las consultas que se van hacer en relación a la clase clie
 
 ![image](https://user-images.githubusercontent.com/31961588/193954799-78626b90-2933-4578-9533-4e4e955157f1.png)
 
+
+## 4. Creamos cliente.jsp dentro  web-inf
+
+![image](https://user-images.githubusercontent.com/31961588/193957686-288509bb-204f-47f2-812b-ee2d25bc6baf.png)
+
+
+## 5. Add taglig para usar un foreach para recorrer el listado de clientes
+
+![image](https://user-images.githubusercontent.com/31961588/193957898-671352b2-fc9b-4b70-b405-8bef212f84b5.png)
