@@ -22,6 +22,13 @@
 ![image](https://user-images.githubusercontent.com/31961588/194724693-ec6a210f-83cd-498f-bbb7-2659be972a72.png)
 
 
+## 4. ServletControllerSaldos en doGet se hace la consulta de traer todos los clientes
+
+![image](https://user-images.githubusercontent.com/31961588/194725649-de4a8134-2e3a-4a7c-af99-26467b5ab3d0.png)
+
+## 5. Cliente.jsp obtenemos list de clientes y lo mostramos
+
+![image](https://user-images.githubusercontent.com/31961588/194725678-ad1b0c4a-b863-4728-bd39-5bd242fa8697.png)
 
 
 # -----------------------------------------------------------------------------------------------------------
@@ -34,7 +41,7 @@
 
 ![image](https://user-images.githubusercontent.com/31961588/184731564-4fb84d81-de07-4b37-bf9f-65022c42cbdf.png)
 
-##  Método actulizar
+##  Método actualizar
 
 ![image](https://user-images.githubusercontent.com/31961588/184731845-3c061080-9f9d-48e5-bdb3-51d1f7a71e6c.png)
 
