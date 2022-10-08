@@ -13,17 +13,28 @@
 
 ![image](https://user-images.githubusercontent.com/31961588/193429182-256ed424-6ed5-45f3-87ee-d28e3b2379e8.png)
 
+## 2. Crear cliente.jsp
+
+![image](https://user-images.githubusercontent.com/31961588/194723627-0f2117d8-4414-47f5-9749-27deab307294.png)
+
+## 3. Add depencian jstl
+
+![image](https://user-images.githubusercontent.com/31961588/194724693-ec6a210f-83cd-498f-bbb7-2659be972a72.png)
 
 
-## 2. Método encontrar
+
+
+# -----------------------------------------------------------------------------------------------------------
+
+##  Método encontrar
 
 ![image](https://user-images.githubusercontent.com/31961588/184731214-2a28b749-ea1a-4070-84e1-a266cba3cc99.png)
 
-## 3. Método insertar
+## Método insertar
 
 ![image](https://user-images.githubusercontent.com/31961588/184731564-4fb84d81-de07-4b37-bf9f-65022c42cbdf.png)
 
-## 4. Método actulizar
+##  Método actulizar
 
 ![image](https://user-images.githubusercontent.com/31961588/184731845-3c061080-9f9d-48e5-bdb3-51d1f7a71e6c.png)
 
