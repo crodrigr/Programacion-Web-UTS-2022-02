@@ -12,3 +12,22 @@
 
 
 ![image](https://user-images.githubusercontent.com/31961588/193429182-256ed424-6ed5-45f3-87ee-d28e3b2379e8.png)
+
+
+
+## 2. Método encontrar
+
+![image](https://user-images.githubusercontent.com/31961588/184731214-2a28b749-ea1a-4070-84e1-a266cba3cc99.png)
+
+## 3. Método insertar
+
+![image](https://user-images.githubusercontent.com/31961588/184731564-4fb84d81-de07-4b37-bf9f-65022c42cbdf.png)
+
+## 4. Método actulizar
+
+![image](https://user-images.githubusercontent.com/31961588/184731845-3c061080-9f9d-48e5-bdb3-51d1f7a71e6c.png)
+
+
+## 5. Método eliminar
+
+![image](https://user-images.githubusercontent.com/31961588/184731923-5f1b19b6-be49-4ff6-b019-f06568c069db.png)
