@@ -34,3 +34,23 @@ ESta clase se define las consultas que se van hacer en relación a la clase clie
 ## 5. Add taglig para usar un foreach para recorrer el listado de clientes
 
 ![image](https://user-images.githubusercontent.com/31961588/193957898-671352b2-fc9b-4b70-b405-8bef212f84b5.png)
+
+ -----------------------------------------------------------------------------------------------------------
+
+##  Método encontrar
+
+![image](https://user-images.githubusercontent.com/31961588/184731214-2a28b749-ea1a-4070-84e1-a266cba3cc99.png)
+
+## Método insertar
+
+![image](https://user-images.githubusercontent.com/31961588/184731564-4fb84d81-de07-4b37-bf9f-65022c42cbdf.png)
+
+##  Método actualizar
+
+![image](https://user-images.githubusercontent.com/31961588/184731845-3c061080-9f9d-48e5-bdb3-51d1f7a71e6c.png)
+
+
+## 5. Método eliminar
+
+![image](https://user-images.githubusercontent.com/31961588/184731923-5f1b19b6-be49-4ff6-b019-f06568c069db.png)
+
