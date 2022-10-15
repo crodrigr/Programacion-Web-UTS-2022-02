@@ -9,12 +9,8 @@
 
 ## Actividades pendientes
 
-- Diseño de un sitio web o aplicación. Maqueta realizada con mockups E191 **Entrega 27 de Agosto**
-- Diseño de un sitio web o aplicación. Maqueta realizada con mockups E192 **Entrega 26 de Agosto**
-- Quiz para el martes 30 de Agosto grupo E192
-- Parcial va estar programado entre el **5 de 17 de Septiembre**. 
+-  Grupo Sabado: Parcial II Sábado 29 de Octubre
 
-## Cronograma de Actividades Académicas del Segundo Semestre del 2022 
 
 ![image](https://user-images.githubusercontent.com/31961588/184508750-a3f3fe1f-0707-47f8-84d7-6a0b23e57162.png)
 
