@@ -9,7 +9,7 @@
 
 ## Actividades pendientes
 
--  Grupo Sabado: Parcial III Sábado 3 de Diciemre
+-  Grupo Sabado: Parcial III Sábado 3 de Diciembre
 -  Grupo Martes: Parcial III Martes 29 de Diciembre 
 
 
